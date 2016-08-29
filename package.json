@@ -1,0 +1,29 @@
+{
+    "name": "si-env",
+    "description": "移动设备环境探测工具",
+    "version": "0.1.0",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:T-phantom/si-env.git"
+    },
+    "author": {
+        "name": "caelumtian"
+    },
+    "keywords": [
+        "移动设备",
+        "运行环境",
+        "js"
+    ],
+    "devDependencies": {
+        "babel-cli": "~6.4.5",
+        "babel-core": "~6.4.5",
+        "babel-preset-es2015": "~6.3.13",
+        "chai": "^3.5.0",
+        "gulp": "^3.9.0",
+        "gulp-babel": "^6.1.2",
+        "gulp-jshint": "^1.11.2",
+        "gulp-load-plugins": "^0.10.0",
+        "mocha": "^2.5.3"
+    },
+    "license": "MIT"
+}
