@@ -16,5 +16,5 @@ si-env
 * `env.params`: url中的查询参数  
 
 运行示例截图：  
-![]("./test/example.png")  
+![](https://raw.githubusercontent.com/T-phantom/si-env/master/test/example.png)  
 
